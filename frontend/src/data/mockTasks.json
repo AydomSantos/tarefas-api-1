@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Tarefa 1",
+    "description": "Descrição da tarefa 1",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "name": "Tarefa 2",
+    "description": "Descrição da tarefa 2",
+    "status": "completed"
+  }
+]
